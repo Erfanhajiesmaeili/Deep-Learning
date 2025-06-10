@@ -47,7 +47,7 @@ The model demonstrates good performance in identifying patients with heart disea
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/Erfanhajiesmaeili/Deep-Learning/blob/main/Heart_diseasess/Heart_diseases.ipynb](https://github.com/Erfanhajiesmaeili/Deep-Learning/blob/main/Heart_diseasess/Heart_diseases.ipynb)
+    git clone [https://github.com/Erfanhajiesmaeili/Deep-Learning/blob/main/Heart_diseasess/Heart_diseases.ipynb]
     ```
 2.  Open the `Heart_diseases.ipynb` notebook in Google Colab or a local Jupyter environment.
 3.  Make sure you have the `heart.csv` dataset available and update the file path in the notebook.
